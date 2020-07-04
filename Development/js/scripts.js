@@ -8,6 +8,8 @@
  */
 
 function greet(name) {}
+    let greet = (name);
+    return("Hello");
 
 /*
  * isOdd(n) اسم الدالة
@@ -15,3 +17,5 @@ function greet(name) {}
  * - عدا ذلك false إن كان الرقم فردياً وترجع true ترجع القيمة
  */
 function isOdd(n) {}
+
+if
